@@ -65,6 +65,6 @@ And I maybe a good referencer for anyone who want to take steps like me.
 # Data Structure
 
 ## Linked List
-[] Read linked-list at http://www.geeksforgeeks.org/data-structures/linked-list/ 
-[] Do real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
+- [x] Read linked-list at http://www.geeksforgeeks.org/data-structures/linked-list/ 
+- [ ] Do real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
 
