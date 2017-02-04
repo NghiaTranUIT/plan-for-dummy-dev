@@ -66,8 +66,9 @@ And I maybe a good referencer for anyone who want to take steps like me.
 
 ## Linked List
 - [x] Read linked-list at http://www.geeksforgeeks.org/data-structures/linked-list/ 
-- [ ] Implemented generic linked list in Swift
-- [ ] Implement basic functionality. Such as append/remove/indexOf/reversed/map/filter like array
+- [x] Implemented generic linked list in Swift: LinkedList<T>
+- [x] Implement basic functionality. Such as append/remove/indexOf/reversed/map/filter like array
+- [x] Try to conform IteratorProtocol and Sequence Protocol for LinkedList<T>
 - [ ] Do real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
   
 ## Queue
