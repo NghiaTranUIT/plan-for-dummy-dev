@@ -66,5 +66,13 @@ And I maybe a good referencer for anyone who want to take steps like me.
 
 ## Linked List
 - [x] Read linked-list at http://www.geeksforgeeks.org/data-structures/linked-list/ 
+- [ ] Implemented generic linked list in Swift
+- [ ] Implement basic functionality. Such as append/remove/indexOf/reversed/map/filter like array
 - [ ] Do real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
+  
+## Queue
+- [ ] Research Queue
+  
+## Priority Queue
+- [ ] Research Priority Queue
 
