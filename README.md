@@ -62,6 +62,10 @@ This repos is a best place to list the road map to achieve my goal.
   
 And I maybe a good referencer for anyone who want to take steps like me.
 
+# Referencer
+1. Data Structures and Algorithms in Java, 6th Edition, 2014
+2. Hackerank
+  
 # Data Structure
 
 ## Linked List
@@ -69,11 +73,15 @@ And I maybe a good referencer for anyone who want to take steps like me.
 - [x] Implemented generic linked list in Swift: LinkedList<T>
 - [x] Implement basic functionality. Such as append/remove/indexOf/reversed/map/filter like array
 - [x] Try to conform IteratorProtocol and Sequence Protocol for LinkedList<T>
-- [ ] Do real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
-  
+- [x] Do all real test at HackerRank - https://www.hackerrank.com/domains/data-structures/linked-lists/page:1
+- [x] Research Circulary Linked-list and implement rotate.
+- [x] Research and implemented Robin-round circulary linked-list.
+
 ## Queue
 - [ ] Research Queue
   
 ## Priority Queue
-- [ ] Research Priority Queue
+- [ ] Research Priority Queue 
 
+## Tree
+- [ ] Read about Tree in Chapter 8
