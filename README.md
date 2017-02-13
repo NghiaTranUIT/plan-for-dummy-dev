@@ -65,7 +65,17 @@ And I maybe a good referencer for anyone who want to take steps like me.
 # Referencer
 1. Data Structures and Algorithms in Java, 6th Edition, 2014
 2. Hackerank
-  
+ 
+# Bloom Fiter
+- [x] Research Bloom filter http://stackoverflow.com/a/30247022/3127477
+
+# LCS 
+- [x] Understand Longest common subsequence 
+- [x] Do experiement on swift placeground
+- [x] Implement diff protocol - Get Insertion/Deletion for Array
+- [ ] Write blog LCS - part 1 -> Implement LCS by swift-playground
+- [ ] LCS part 2 -> Apply to iOS development
+
 # Data Structure
 
 ## Linked List
