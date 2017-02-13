@@ -78,10 +78,13 @@ And I maybe a good referencer for anyone who want to take steps like me.
 - [x] Research and implemented Robin-round circulary linked-list.
 
 ## Queue
-- [ ] Research Queue
+- [x] Research Queue
+- [x] Do exercise on HackerRank 
   
 ## Priority Queue
-- [ ] Research Priority Queue 
+- [] Research Priority Queue 
 
 ## Tree
-- [ ] Read about Tree in Chapter 8
+- [x] Read about Tree in Chapter 8: General tree, Binary Tree, Binary Search Tree.
+- [x] Understand tree traversal algorithm: Pre-order, post-order, in-order.
+- [x] Do exercise on HackerRank 
