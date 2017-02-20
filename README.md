@@ -62,19 +62,32 @@ This repos is a best place to list the road map to achieve my goal.
   
 And I maybe a good referencer for anyone who want to take steps like me.
 
+# Hackerrank
+Account [Hackerrank](https://www.hackerrank.com/vinhnghiatran)
+
 # Referencer
 1. Data Structures and Algorithms in Java, 6th Edition, 2014
 2. Hackerank
+3. [Geeks For Geeks](http://www.geeksforgeeks.org)
  
-# Bloom Fiter
+# Algorithm
+
+## Bloom Fiter
 - [x] Research Bloom filter http://stackoverflow.com/a/30247022/3127477
 
-# LCS 
+## LCS 
 - [x] Understand Longest common subsequence 
 - [x] Do experiement on swift placeground
 - [x] Implement diff protocol - Get Insertion/Deletion for Array
-- [ ] Write blog LCS - part 1 -> Implement LCS by swift-playground
+- [x] [Write blog LCS](http://nghiatran.me/longest-common-subsequence-diff-part-1/) - part 1 -> Implement LCS by swift-playground
 - [ ] LCS part 2 -> Apply to iOS development
+
+## Knapsack problem
+- [ ] Implement by Dynamic Programming
+- [ ] Branch and Bound - http://www.geeksforgeeks.org/branch-and-bound-set-1-introduction-with-01-knapsack/
+
+## Pattern searching
+- [ ] Boyer Moore Algorithm
 
 # Data Structure
 
@@ -92,9 +105,25 @@ And I maybe a good referencer for anyone who want to take steps like me.
 - [x] Do exercise on HackerRank 
   
 ## Priority Queue
-- [] Research Priority Queue 
+- [x] Research Priority Queue 
+- [x] Implement Priority Queue by Heap. Tried min/max heap.
 
 ## Tree
 - [x] Read about Tree in Chapter 8: General tree, Binary Tree, Binary Search Tree.
 - [x] Understand tree traversal algorithm: Pre-order, post-order, in-order.
 - [x] Do exercise on HackerRank 
+
+## Heap
+- [x] Understand what is heap
+- [x] Advantage bwtween heap and normal tree
+- [x] Implement basic heap
+- [x] Insert/remove node by swapping top/down to match 2 important property of Heap.
+
+## Hashmap
+- [x] Get Hashmap interface
+- [x] Implement hashmap by array-base, and BST-base
+- [x] Understand why, when, advantage, drawback, time/space-complexity between ^ two approach.
+- [x] Collision in hashmap, reseach basic solution to resolve it.
+
+
+and more ....
